@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      jekyll搭建个人博客
 subtitle:   
