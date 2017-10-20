@@ -78,9 +78,9 @@ git clone github2:账号名/仓库名.git
 目前我感觉缺点是，在自己想要操作的仓库下操作之前，要先用git config 覆盖一次账号 邮箱，否则提交代码的用户是会有交叉提交的现象。
 当然还是比每次pull  push 的时候要填写用户名密码好多了，毕竟每次操作只需要修改一次
 
-##感谢博主：
-http://www.jianshu.com/p/89cb26e5c3e8
-https://my.oschina.net/csensix/blog/184434
-http://www.cnblogs.com/BeginMan/p/3548139.html
+## 感谢博主：
+[http://www.jianshu.com/p/89cb26e5c3e8](http://www.jianshu.com/p/89cb26e5c3e8)
+[https://my.oschina.net/csensix/blog/184434](https://my.oschina.net/csensix/blog/184434)
+[http://www.cnblogs.com/BeginMan/p/3548139.html](http://www.cnblogs.com/BeginMan/p/3548139.html)
 
 
