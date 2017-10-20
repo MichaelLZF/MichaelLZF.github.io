@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
-title:      jekyll搭建个人博客
-subtitle:   
+title:      使用jekyll搭建个人博客
+subtitle:
 date:       2017-10-20
 author:     Felix
 header-img: img/home-bg-art.jpg
