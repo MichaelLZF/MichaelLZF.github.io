@@ -74,5 +74,5 @@ gem install jekyll-paginate  安装相关文件即可正常执行
 
 ## 上传部署
 
-使用github上传部署即可。参考[使用github搭建个人网站]()
+使用github上传部署即可。参考[使用github搭建个人网站](http://zhuofeili.top/2017/10/20/jekyll-%E4%BD%BF%E7%94%A8jekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
 
