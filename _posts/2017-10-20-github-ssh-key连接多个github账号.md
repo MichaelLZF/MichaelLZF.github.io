@@ -79,8 +79,8 @@ git clone github2:账号名/仓库名.git
 当然还是比每次pull  push 的时候要填写用户名密码好多了，毕竟每次操作只需要修改一次
 
 ## 感谢博主：
-[http://www.jianshu.com/p/89cb26e5c3e8](http://www.jianshu.com/p/89cb26e5c3e8)
-[https://my.oschina.net/csensix/blog/184434](https://my.oschina.net/csensix/blog/184434)
+[http://www.jianshu.com/p/89cb26e5c3e8](http://www.jianshu.com/p/89cb26e5c3e8)</br>
+[https://my.oschina.net/csensix/blog/184434](https://my.oschina.net/csensix/blog/184434)</br>
 [http://www.cnblogs.com/BeginMan/p/3548139.html](http://www.cnblogs.com/BeginMan/p/3548139.html)
 
 
