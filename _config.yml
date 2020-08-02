@@ -104,3 +104,5 @@ friends: [
         href: "https://github.com/"
     }
 ]
+
+theme: jekyll-theme-cayman
